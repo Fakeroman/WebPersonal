@@ -1,0 +1,85 @@
+body{
+  height: 100em;
+}
+div{
+  width: 100%;
+  padding: 0.1%;
+}
+.menu{
+  width: 100%;
+  padding: 0.1%;
+  background-color: rgba(76, 175, 80, 0.3);
+  float:right;
+  top: 0;
+  position: fixed;
+  overflow: hidden;
+}
+li a{
+  float: right;
+  padding: 16px 30px;
+  text-decoration: none;
+  display: block;
+
+overflow: hidden;
+}
+#Nombre{
+  float: left;
+}
+a{
+  color: black;
+}
+p{
+  padding: 1%;
+}
+h2{
+  margin-top: 1%;
+  padding: 1%;
+}
+h1{
+  margin-top: 1%;
+  padding: 0.5%;
+  font-size: 18px
+}
+.nav{
+overflow: hidden;
+list-style-type: none;
+margin:0;
+padding: 0;
+}
+li a:hover{
+  color: white;
+  background: coral;
+}
+img{
+  float: right;
+width: 50%;
+height: 10%;
+border-radius: 50%;
+}
+#p{
+  width: 20%;
+  height:10%;
+}
+.a{
+  background: rgba(48, 101, 228, 0.5)
+}
+.Infoo{
+  background: rgba(37, 52, 228, 0.5);
+
+}
+.b{
+  background: rgba(104, 65, 228, 0.5);
+
+}
+.c{
+  background: rgba(104, 145, 228, 0.5);
+
+}
+.d{
+  background: rgba(104, 218, 228, 0.5);
+
+}
+.e{
+  background: rgba(175, 212, 228, 0.5);
+
+}
